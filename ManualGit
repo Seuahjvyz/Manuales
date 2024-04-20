@@ -1,0 +1,11 @@
+git config --list -> Lista global de datos 
+git config --global user.name "Nombre" -> Editar o agregar user name
+git config --global user.email correo@example.com -> Editar o agregar correo
+git init -> Inicializar un repositorio(ubicación para guardar cosasGit)
+git status -> Para revisar el estado del repositorio Verde preparados para hacerles comit
+git add . -> Preparar los archivos antes de hacer comit
+git commit -m "" -> Para versualizar codigo (Para visualizar archivos eliminados xd)
+git log -> Para ver la versiones que se han tenido
+git remote -v ->Ver repositorio
+git log --oneline -> Para ver los commit de manera mas compacta 
+git reset --hard (aqui poner el id del commit ejemplo:411134) -> Para retroceder un commit anterior

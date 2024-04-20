@@ -1,0 +1,18 @@
+ls       -> Lista de los archivos del equipo o carpeta
+ls -lha  -> Para enlistar los archivos en lunguaje humano
+cd       -> Mover entre directorios (Carpetas)
+clear    -> Limpiar la terminal
+mkdir    -> Crear una carpeta (Nombre sin espacios)
+touch    -> Crear archivo (Nombre del archivo sin espacios)
+touch    -> Crear un archivo en java (Nombre de la clase).java 
+nano     -> Editar archivo
+cat      -> Visualizar lo que esta dentro del archivo
+javac -g -> Compilar codigo (Nombre de la clase).java
+java     -> Ejecuta el programa (Nombre de la clase)
+code .   -> Abre Visual Studio Code
+cd ..    -> Regresar entre directorios
+cd ../   -> Regresar a una carpeta cd ../nombre de la carpetaxd
+
+(Para guardar Ctrl + o)
+(Para regresar a la terminal Ctrl + x)  
+(Para el formato en VSC ctrl+a, shift+ctrl+p, buscar format)
